@@ -1,0 +1,9 @@
+# GitHub Commit Message Template for Supply Chain Analytics
+
+feat: 🎉 Initial commit with data, notebooks, and dashboard
+
+- Added raw supply chain dataset
+- Created exploratory data analysis notebook
+- Implemented data preprocessing and model training
+- Developed initial Streamlit dashboard
+- Updated README with instructions and badges
